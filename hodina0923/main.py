@@ -1,0 +1,7 @@
+jmeno = input("\nZadejte jmeno: ")
+print("")
+print("----------------------------")
+print(" Jmeno: " +jmeno)
+print(" Obor: Informatika")
+print("-----------------------------")
+print("")
