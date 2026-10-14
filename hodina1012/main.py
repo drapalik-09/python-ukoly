@@ -1,4 +1,4 @@
-cas= float(input("Zadej čas"))
+cas = float(input("Zadej čas"))
 if cas<0:
     print("Chybné zadání")
 elif cas<5:
@@ -7,7 +7,7 @@ elif cas<10:
     print ("Dobré ráno")
 elif cas<12:
     print("Dobré dopoledne")
-elif cas=12:
+elif cas = 12:
     print("Dobré poledne")
 elif cas<18:
     print("Dobré odpoledne")
