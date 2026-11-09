@@ -13,4 +13,5 @@ while tajne != "s":
         horni_hranice = tajne
     else:
         print("Uhodl jsem tvoje číslo.")
-        print(f"Tvoje číslo je {tajne}. a já jsem ho uhodl na {pokusy} pokus.")
+        print(f"Tvoje číslo je {tajne}. A já jsem ho uhodl na {pokusy} pokus.")
+        
